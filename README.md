@@ -2,7 +2,7 @@
 
 This project demonstrates how to deploy a Horizontal Pod Autoscaler (HPA) in a local Kubernetes cluster using **Minikube**. The HPA dynamically scales the number of pods based on CPU usage.
 
----
+
 
 ## 🎯 Goal
 
